@@ -1,5 +1,5 @@
 ---
-name: Manus AI Agent
+name: manus
 description: Delegate complex autonomous tasks to Manus AI - an AI agent for deep research, web browsing, code execution, report generation, and multi-step workflows.
 allowed-tools: Bash, Read, Grep
 ---
